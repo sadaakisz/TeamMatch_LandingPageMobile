@@ -15,24 +15,12 @@ body {
   -ms-overflow-style: none;
 }
 .landingpagemobile1 {
+  will-change: transform;
   display: block;
   position: absolute;
   background-color: rgba(35, 35, 35, 1);
   width: 100vw; /* 1080px/1080 */
   height: 1041.944444vw; /* 11253px/1080 */
-  left: 0;
-  top: 0;
-}
-.landingpagemobile1 .landingpagemobile {
-  position: absolute;
-  display: none;
-  background-image: url("../img/landingpagemobile.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0);
-  width: 100vw; /* 1080px/1080 */
-  height: 1052.777778vw; /* 11370px/1080 */
   left: 0;
   top: 0;
 }
@@ -47,7 +35,7 @@ body {
 }
 .landingpagemobile1 .topsection .mbggraphicmask {
   position: absolute;
-  background-image: url("../img/mbggraphicmask.png");
+  background-image: url("../img/mbggraphicmask.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -59,7 +47,7 @@ body {
 }
 .landingpagemobile1 .topsection .mlaptopmask {
   position: absolute;
-  background-image: url("../img/mlaptopmask.png");
+  background-image: url("../img/mlaptopmask.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -108,7 +96,7 @@ body {
   display: block;
   position: absolute;
   display: none;
-  background-image: url("../img/hoverstate47b4a142.png");
+  background-image: url("../img/hoverstate47b4a142.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -159,7 +147,7 @@ body {
 }
 .landingpagemobile1 .topsection .cta .btnempiezaya .hoverstate47b4a142 .insidecb443828 .forwardArrow6f624b2e {
   position: absolute;
-  background-image: url("../img/forwardArrow6f624b2e.png");
+  background-image: url("../img/forwardArrow6f624b2e.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -173,7 +161,7 @@ body {
 .landingpagemobile1 .topsection .cta .btnempiezaya .defaultstateb2b95e31 {
   display: block;
   position: absolute;
-  background-image: url("../img/defaultstateb2b95e31.png");
+  background-image: url("../img/defaultstateb2b95e31.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -186,7 +174,7 @@ body {
 }
 .landingpagemobile1 .topsection .cta .btnempiezaya .defaultstateb2b95e31 .rectangle673 {
   position: absolute;
-  background-image: url("../img/rectangle673.png");
+  background-image: url("../img/rectangle673.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -224,7 +212,7 @@ body {
 }
 .landingpagemobile1 .topsection .cta .btnempiezaya .defaultstateb2b95e31 .inside9b93055f .forwardArrow {
   position: absolute;
-  background-image: url("../img/forwardArrow.png");
+  background-image: url("../img/forwardArrow.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -360,7 +348,7 @@ body {
 .landingpagemobile1 .topsection .topbar .socialmedia {
   display: block;
   position: absolute;
-  background-image: url("../img/socialmedia.png");
+  background-image: url("../img/socialmedia.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -372,7 +360,7 @@ body {
 }
 .landingpagemobile1 .topsection .topbar .socialmedia .mfacebook {
   position: absolute;
-  background-image: url("../img/mfacebook.png");
+  background-image: url("../img/mfacebook.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -384,7 +372,7 @@ body {
 }
 .landingpagemobile1 .topsection .topbar .socialmedia .minstagram {
   position: absolute;
-  background-image: url("../img/minstagram.png");
+  background-image: url("../img/minstagram.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -396,7 +384,7 @@ body {
 }
 .landingpagemobile1 .topsection .topbar .socialmedia .mtwitter {
   position: absolute;
-  background-image: url("../img/mtwitter.png");
+  background-image: url("../img/mtwitter.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -408,7 +396,7 @@ body {
 }
 .landingpagemobile1 .topsection .mteammatchlogo {
   position: absolute;
-  background-image: url("../img/mteammatchlogo.png");
+  background-image: url("../img/mteammatchlogo.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -420,7 +408,7 @@ body {
 }
 .landingpagemobile1 .topsection .mforwardArrowSmall {
   position: absolute;
-  background-image: url("../img/mforwardArrowSmall.png");
+  background-image: url("../img/mforwardArrowSmall.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -451,7 +439,7 @@ body {
 }
 .landingpagemobile1 .mobilesection .mtmmockupsmask {
   position: absolute;
-  background-image: url("../img/mtmmockupsmask.png");
+  background-image: url("../img/mtmmockupsmask.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -545,7 +533,7 @@ body {
 }
 .landingpagemobile1 .mobilesection .mobilecta .btnplaystore .hoverstatef6a32cd9 .insidef46698ef .mplaystore903c3c59 {
   position: absolute;
-  background-image: url("../img/mplaystore903c3c59.png");
+  background-image: url("../img/mplaystore903c3c59.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -600,7 +588,7 @@ body {
 }
 .landingpagemobile1 .mobilesection .mobilecta .btnplaystore .defaultstate15c2e21f .inside4a8a8c1a .mplaystore {
   position: absolute;
-  background-image: url("../img/mplaystore.png");
+  background-image: url("../img/mplaystore.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -678,7 +666,7 @@ body {
 }
 .landingpagemobile1 .mobilesection .mobilecta .btnappstore .hoverstate79020c7c .inside9cceb8fc .mapplelogo9ce79120 {
   position: absolute;
-  background-image: url("../img/mapplelogo9ce79120.png");
+  background-image: url("../img/mapplelogo9ce79120.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -733,7 +721,7 @@ body {
 }
 .landingpagemobile1 .mobilesection .mobilecta .btnappstore .defaultstatecd5bb0e4 .inside .mapplelogo {
   position: absolute;
-  background-image: url("../img/mapplelogo.png");
+  background-image: url("../img/mapplelogo.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -794,7 +782,7 @@ body {
 }
 .landingpagemobile1 .misionsection .bgmision .linepattern {
   position: absolute;
-  background-image: url("../img/linepattern.png");
+  background-image: url("../img/linepattern.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -861,7 +849,7 @@ body {
 }
 .landingpagemobile1 .misionsection .sabermas .panel1 .mus {
   position: absolute;
-  background-image: url("../img/mus.png");
+  background-image: url("../img/mus.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -910,7 +898,7 @@ body {
 }
 .landingpagemobile1 .misionsection .sabermas .panel1 .insidepanel1 .mcurvedarrow {
   position: absolute;
-  background-image: url("../img/mcurvedarrow.png");
+  background-image: url("../img/mcurvedarrow.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -955,7 +943,7 @@ body {
 }
 .landingpagemobile1 .misionsection .sabermas .panel2 .mcontroller {
   position: absolute;
-  background-image: url("../img/mcontroller.png");
+  background-image: url("../img/mcontroller.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1042,7 +1030,7 @@ body {
 }
 .landingpagemobile1 .misionsection .sabermas .panel3 .mcrystal {
   position: absolute;
-  background-image: url("../img/mcrystal.png");
+  background-image: url("../img/mcrystal.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1160,7 +1148,7 @@ body {
 }
 .landingpagemobile1 .visionsection .bgvision .rectangle704 {
   position: absolute;
-  background-image: url("../img/rectangle704.png");
+  background-image: url("../img/rectangle704.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1172,7 +1160,7 @@ body {
 }
 .landingpagemobile1 .visionsection .bgvision .mlinepattern455bca6d {
   position: absolute;
-  background-image: url("../img/mlinepattern455bca6d.png");
+  background-image: url("../img/mlinepattern455bca6d.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1221,7 +1209,7 @@ body {
 }
 .landingpagemobile1 .visionsection .msmartphone {
   position: absolute;
-  background-image: url("../img/msmartphone.png");
+  background-image: url("../img/msmartphone.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1261,7 +1249,7 @@ body {
 }
 .landingpagemobile1 .funcionessection .bgfunciones .mlinepatternbaf59471 {
   position: absolute;
-  background-image: url("../img/mlinepatternbaf59471.png");
+  background-image: url("../img/mlinepatternbaf59471.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1331,7 +1319,7 @@ body {
 }
 .landingpagemobile1 .funcionessection .chateaf7be52 .rectangle7093603f2e9 {
   position: absolute;
-  background-image: url("../img/rectangle7093603f2e9.png");
+  background-image: url("../img/rectangle7093603f2e9.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1378,7 +1366,7 @@ body {
 }
 .landingpagemobile1 .funcionessection .find .rectangle709 {
   position: absolute;
-  background-image: url("../img/rectangle709.png");
+  background-image: url("../img/rectangle709.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1425,7 +1413,7 @@ body {
 }
 .landingpagemobile1 .funcionessection .fill .rectangle708 {
   position: absolute;
-  background-image: url("../img/rectangle708.png");
+  background-image: url("../img/rectangle708.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1472,7 +1460,7 @@ body {
 }
 .landingpagemobile1 .funcionessection .filters .rectangle707 {
   position: absolute;
-  background-image: url("../img/rectangle707.png");
+  background-image: url("../img/rectangle707.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1546,7 +1534,7 @@ body {
 }
 .landingpagemobile1 .funcionessection .btnprobar .defaultstate .rectangle671 {
   position: absolute;
-  background-image: url("../img/rectangle671.png");
+  background-image: url("../img/rectangle671.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1593,7 +1581,7 @@ body {
 }
 .landingpagemobile1 .footersection .mlinepattern {
   position: absolute;
-  background-image: url("../img/mlinepattern.png");
+  background-image: url("../img/mlinepattern.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1614,7 +1602,7 @@ body {
 }
 .landingpagemobile1 .footersection .footercontent .mteammatchlogomini {
   position: absolute;
-  background-image: url("../img/mteammatchlogomini.png");
+  background-image: url("../img/mteammatchlogomini.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
