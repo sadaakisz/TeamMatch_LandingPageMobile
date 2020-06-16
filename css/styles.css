@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 * {
-  font-family: 'Gilroy ☞', Helvetica, Arial, sans-serif;
+  font-family: 'Poppins', Helvetica, Arial, sans-serif;
 }
 body {
   margin: 0;
@@ -73,8 +73,8 @@ body {
   line-height: 8.611111vw; /* 93px/1080 */
   letter-spacing: 0.042593vw; /* 0.46px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 8.611111vw; /* 93px/1080 */
-  font-weight: 700;
+  font-size: 7.711111vw; /* 93px/1080 */
+  font-weight: 600;
   width: 83.518519vw; /* 902px/1080 */
   height: 19.351852vw; /* 209px/1080 */
   left: 0;
@@ -139,7 +139,7 @@ body {
   letter-spacing: 0.10463vw; /* 1.13px/1080 */
   color: rgba(242, 242, 242, 1);
   font-size: 4.166667vw; /* 45px/1080 */
-  font-weight: 700;
+  font-weight: 600;
   width: 22.962963vw; /* 248px/1080 */
   height: 5.092593vw; /* 55px/1080 */
   left: 6.574074vw; /* 71px/1080 */
@@ -204,7 +204,7 @@ body {
   letter-spacing: 0.10463vw; /* 1.13px/1080 */
   color: rgba(255, 255, 255, 1);
   font-size: 4.166667vw; /* 45px/1080 */
-  font-weight: 700;
+  font-weight: 600;
   width: 22.962963vw; /* 248px/1080 */
   height: 5.092593vw; /* 55px/1080 */
   left: 6.574074vw; /* 71px/1080 */
@@ -236,7 +236,7 @@ body {
   line-height: 6.203704vw; /* 67px/1080 */
   letter-spacing: 0.075926vw; /* 0.82px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 3.796296vw; /* 41px/1080 */
+  font-size: 3.496296vw; /* 41px/1080 */
   font-weight: 500;
   width: 84.259259vw; /* 910px/1080 */
   height: 23.240741vw; /* 251px/1080 */
@@ -298,7 +298,7 @@ body {
   letter-spacing: 0.046296vw; /* 0.50px/1080 */
   color: rgba(255, 255, 255, 1);
   font-size: 1.851852vw; /* 20px/1080 */
-  font-weight: 700;
+  font-weight: 600;
   width: 6.111111vw; /* 66px/1080 */
   height: 2.222222vw; /* 24px/1080 */
   left: 5.740741vw; /* 62px/1080 */
@@ -333,7 +333,7 @@ body {
   letter-spacing: 0.046296vw; /* 0.50px/1080 */
   color: rgba(255, 117, 135, 1);
   font-size: 1.851852vw; /* 20px/1080 */
-  font-weight: 700;
+  font-weight: 600;
   width: 6.111111vw; /* 66px/1080 */
   height: 2.222222vw; /* 24px/1080 */
   left: 5.740741vw; /* 62px/1080 */
@@ -465,8 +465,8 @@ body {
   line-height: 8.796296vw; /* 95px/1080 */
   letter-spacing: 0.22037vw; /* 2.38px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 8.796296vw; /* 95px/1080 */
-  font-weight: 700;
+  font-size: 7.996296vw; /* 95px/1080 */
+  font-weight: 600;
   width: 55.925926vw; /* 604px/1080 */
   height: 19.722222vw; /* 213px/1080 */
   left: 18.703704vw; /* 202px/1080 */
@@ -524,8 +524,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
-  font-size: 5.555556vw; /* 60px/1080 */
-  font-weight: 700;
+  font-size: 5.055556vw; /* 60px/1080 */
+  font-weight: 600;
   width: 26.111111vw; /* 282px/1080 */
   height: 6.759259vw; /* 73px/1080 */
   left: 14.950926vw; /* 161.47px/1080 */
@@ -579,8 +579,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
-  font-size: 5.555556vw; /* 60px/1080 */
-  font-weight: 700;
+  font-size: 5.055556vw; /* 60px/1080 */
+  font-weight: 600;
   width: 26.111111vw; /* 282px/1080 */
   height: 6.759259vw; /* 73px/1080 */
   left: 14.950926vw; /* 161.47px/1080 */
@@ -657,8 +657,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
-  font-size: 5.555556vw; /* 60px/1080 */
-  font-weight: 700;
+  font-size: 5.055556vw; /* 60px/1080 */
+  font-weight: 600;
   width: 26.111111vw; /* 282px/1080 */
   height: 6.759259vw; /* 73px/1080 */
   left: 13.599074vw; /* 146.87px/1080 */
@@ -712,8 +712,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
-  font-size: 5.555556vw; /* 60px/1080 */
-  font-weight: 700;
+  font-size: 5.055556vw; /* 60px/1080 */
+  font-weight: 600;
   width: 26.111111vw; /* 282px/1080 */
   height: 6.759259vw; /* 73px/1080 */
   left: 13.599074vw; /* 146.87px/1080 */
@@ -745,12 +745,12 @@ body {
   line-height: 6.388889vw; /* 69px/1080 */
   letter-spacing: 0.077778vw; /* 0.84px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 3.888889vw; /* 42px/1080 */
+  font-size: 3.588889vw; /* 42px/1080 */
   font-weight: 500;
   width: 94.259259vw; /* 1018px/1080 */
   height: 17.407407vw; /* 188px/1080 */
   left: 0;
-  top: 27.824074vw; /* 300.50px/1080 */
+  top: 26.824074vw; /* 300.50px/1080 */
 }
 .landingpagemobile1 .misionsection {
   display: block;
@@ -808,9 +808,9 @@ body {
   line-height: 8.611111vw; /* 93px/1080 */
   letter-spacing: 0.12963vw; /* 1.40px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 8.611111vw; /* 93px/1080 */
-  font-weight: 700;
-  width: 63.148148vw; /* 682px/1080 */
+  font-size: 7.811111vw; /* 93px/1080 */
+  font-weight: 600;
+  width: 65.148148vw; /* 682px/1080 */
   height: 10.740741vw; /* 116px/1080 */
   left: 8.009259vw; /* 86.50px/1080 */
   top: 1.064815vw; /* 11.50px/1080 */
@@ -822,7 +822,7 @@ body {
   line-height: 6.388889vw; /* 69px/1080 */
   letter-spacing: 0.077778vw; /* 0.84px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 3.888889vw; /* 42px/1080 */
+  font-size: 3.588889vw; /* 42px/1080 */
   font-weight: 500;
   width: 79.259259vw; /* 856px/1080 */
   height: 30.185185vw; /* 326px/1080 */
@@ -889,8 +889,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0.203704vw; /* 2.20px/1080 */
   color: rgba(223, 42, 66, 1);
-  font-size: 4.074074vw; /* 44px/1080 */
-  font-weight: 700;
+  font-size: 3.674074vw; /* 44px/1080 */
+  font-weight: 600;
   width: 29.259259vw; /* 316px/1080 */
   height: 5vw; /* 54px/1080 */
   left: 8.425926vw; /* 91px/1080 */
@@ -913,8 +913,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0;
   color: rgba(58, 58, 58, 1);
-  font-size: 8.518519vw; /* 92px/1080 */
-  font-weight: 700;
+  font-size: 7.718519vw; /* 92px/1080 */
+  font-weight: 600;
   width: 21.388889vw; /* 231px/1080 */
   height: 10.555556vw; /* 114px/1080 */
   left: 8.425926vw; /* 91px/1080 */
@@ -925,8 +925,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0.138889vw; /* 1.50px/1080 */
   color: rgba(58, 58, 58, 1);
-  font-size: 2.777778vw; /* 30px/1080 */
-  font-weight: 700;
+  font-size: 2.577778vw; /* 30px/1080 */
+  font-weight: 600;
   width: 23.518519vw; /* 254px/1080 */
   height: 3.518519vw; /* 38px/1080 */
   left: 8.425926vw; /* 91px/1080 */
@@ -989,7 +989,7 @@ body {
   letter-spacing: 0.231481vw; /* 2.50px/1080 */
   color: rgba(242, 242, 242, 1);
   font-size: 4.62963vw; /* 50px/1080 */
-  font-weight: 700;
+  font-weight: 600;
   width: 25.185185vw; /* 272px/1080 */
   height: 10.740741vw; /* 116px/1080 */
   left: 8.25vw; /* 89.10px/1080 */
@@ -997,25 +997,25 @@ body {
 }
 .landingpagemobile1 .misionsection .sabermas .panel2 .insidepanel2 .gamingIndustria .gamingIndustria-0 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 4.62963vw; /* 50px/1080 */
   letter-spacing: 0.231481vw; /* 2.5/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel2 .insidepanel2 .gamingIndustria .gamingIndustria-6 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 4.62963vw; /* 50px/1080 */
   letter-spacing: 0.231481vw; /* 2.5/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel2 .insidepanel2 .gamingIndustria .gamingIndustria-7 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 4.62963vw; /* 50px/1080 */
   letter-spacing: 0.231481vw; /* 2.5/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel2 .insidepanel2 .gamingIndustria .gamingIndustria-9 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 4.62963vw; /* 50px/1080 */
   letter-spacing: 0.231481vw; /* 2.5/1080 */
 }
@@ -1076,7 +1076,7 @@ body {
   letter-spacing: 0.231481vw; /* 2.50px/1080 */
   color: rgba(242, 242, 242, 1);
   font-size: 4.62963vw; /* 50px/1080 */
-  font-weight: 700;
+  font-weight: 600;
   width: 35.833333vw; /* 387px/1080 */
   height: 10.740741vw; /* 116px/1080 */
   left: 8.25vw; /* 89.10px/1080 */
@@ -1084,25 +1084,25 @@ body {
 }
 .landingpagemobile1 .misionsection .sabermas .panel3 .insidepanel3 .multiplayerMatchmaking .multiplayerMatchmaking-0 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 4.62963vw; /* 50px/1080 */
   letter-spacing: 0.231481vw; /* 2.5/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel3 .insidepanel3 .multiplayerMatchmaking .multiplayerMatchmaking-11 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 4.62963vw; /* 50px/1080 */
   letter-spacing: 0.231481vw; /* 2.5/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel3 .insidepanel3 .multiplayerMatchmaking .multiplayerMatchmaking-12 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 4.62963vw; /* 50px/1080 */
   letter-spacing: 0.231481vw; /* 2.5/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel3 .insidepanel3 .multiplayerMatchmaking .multiplayerMatchmaking-14 {
   color: rgba(242, 242, 242, 1);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 4.62963vw; /* 50px/1080 */
   letter-spacing: 0.231481vw; /* 2.5/1080 */
 }
@@ -1111,8 +1111,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0.127778vw; /* 1.38px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 8.518519vw; /* 92px/1080 */
-  font-weight: 700;
+  font-size: 7.718519vw; /* 92px/1080 */
+  font-weight: 600;
   width: 43.611111vw; /* 471px/1080 */
   height: 10.555556vw; /* 114px/1080 */
   left: 28.055556vw; /* 303px/1080 */
@@ -1186,7 +1186,7 @@ body {
   line-height: 6.203704vw; /* 67px/1080 */
   letter-spacing: 0.09537vw; /* 1.03px/1080 */
   color: rgba(35, 35, 35, 1);
-  font-size: 3.796296vw; /* 41px/1080 */
+  font-size: 3.396296vw; /* 41px/1080 */
   font-weight: 500;
   width: 93.703704vw; /* 1012px/1080 */
   height: 23.240741vw; /* 251px/1080 */
@@ -1200,8 +1200,8 @@ body {
   line-height: 6.944444vw; /* 75px/1080 */
   letter-spacing: 0.215741vw; /* 2.33px/1080 */
   color: rgba(35, 35, 35, 1);
-  font-size: 8.611111vw; /* 93px/1080 */
-  font-weight: 700;
+  font-size: 7.711111vw; /* 93px/1080 */
+  font-weight: 600;
   width: 61.666667vw; /* 666px/1080 */
   height: 10.740741vw; /* 116px/1080 */
   left: 16.018519vw; /* 173px/1080 */
@@ -1275,8 +1275,8 @@ body {
   letter-spacing: 0;
   color: rgba(255, 255, 255, 1);
   -webkit-text-stroke: unset;
-  font-size: 10.092593vw; /* 109px/1080 */
-  font-weight: 700;
+  font-size: 9.092593vw; /* 109px/1080 */
+  font-weight: 600;
   width: 47.037037vw; /* 508px/1080 */
   height: 12.5vw; /* 135px/1080 */
   left: 0;
@@ -1296,8 +1296,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0.225vw; /* 2.43px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 8.981481vw; /* 97px/1080 */
-  font-weight: 700;
+  font-size: 8.181481vw; /* 97px/1080 */
+  font-weight: 600;
   width: 21.759259vw; /* 235px/1080 */
   height: 11.203704vw; /* 121px/1080 */
   left: 39.259259vw; /* 424px/1080 */
@@ -1310,7 +1310,7 @@ body {
   line-height: 6.388889vw; /* 69px/1080 */
   letter-spacing: 0.019444vw; /* 0.21px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 3.888889vw; /* 42px/1080 */
+  font-size: 3.588889vw; /* 42px/1080 */
   font-weight: 500;
   width: 91.851852vw; /* 992px/1080 */
   height: 11.018519vw; /* 119px/1080 */
@@ -1343,8 +1343,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0.225vw; /* 2.43px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 8.981481vw; /* 97px/1080 */
-  font-weight: 700;
+  font-size: 8.181481vw; /* 97px/1080 */
+  font-weight: 600;
   width: 52.037037vw; /* 562px/1080 */
   height: 11.203704vw; /* 121px/1080 */
   left: 24.166667vw; /* 261px/1080 */
@@ -1357,7 +1357,7 @@ body {
   line-height: 6.388889vw; /* 69px/1080 */
   letter-spacing: 0.019444vw; /* 0.21px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 3.888889vw; /* 42px/1080 */
+  font-size: 3.588889vw; /* 42px/1080 */
   font-weight: 500;
   width: 96.111111vw; /* 1038px/1080 */
   height: 11.018519vw; /* 119px/1080 */
@@ -1390,8 +1390,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0.225vw; /* 2.43px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 8.981481vw; /* 97px/1080 */
-  font-weight: 700;
+  font-size: 8.081481vw; /* 97px/1080 */
+  font-weight: 600;
   width: 58.981481vw; /* 637px/1080 */
   height: 11.203704vw; /* 121px/1080 */
   left: 20.648148vw; /* 223px/1080 */
@@ -1404,7 +1404,7 @@ body {
   line-height: 6.388889vw; /* 69px/1080 */
   letter-spacing: 0.019444vw; /* 0.21px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 3.888889vw; /* 42px/1080 */
+  font-size: 3.588889vw; /* 42px/1080 */
   font-weight: 500;
   width: 91.111111vw; /* 984px/1080 */
   height: 17.407407vw; /* 188px/1080 */
@@ -1437,8 +1437,8 @@ body {
   background-color: rgba(255, 255, 255, 0);
   letter-spacing: 0.225vw; /* 2.43px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 8.981481vw; /* 97px/1080 */
-  font-weight: 700;
+  font-size: 8.181481vw; /* 97px/1080 */
+  font-weight: 600;
   width: 63.425926vw; /* 685px/1080 */
   height: 11.203704vw; /* 121px/1080 */
   left: 18.888889vw; /* 204px/1080 */
@@ -1451,7 +1451,7 @@ body {
   line-height: 6.388889vw; /* 69px/1080 */
   letter-spacing: 0.019444vw; /* 0.21px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 3.888889vw; /* 42px/1080 */
+  font-size: 3.588889vw; /* 42px/1080 */
   font-weight: 500;
   width: 92.037037vw; /* 994px/1080 */
   height: 11.018519vw; /* 119px/1080 */
@@ -1514,8 +1514,8 @@ body {
   text-align: center;
   letter-spacing: 0.137037vw; /* 1.48px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 5.462963vw; /* 59px/1080 */
-  font-weight: 700;
+  font-size: 4.962963vw; /* 59px/1080 */
+  font-weight: 600;
   white-space: pre;
   width: 17.592593vw; /* 190px/1080 */
   height: 6.666667vw; /* 72px/1080 */
@@ -1556,8 +1556,8 @@ body {
   text-align: center;
   letter-spacing: 0.137037vw; /* 1.48px/1080 */
   color: rgba(242, 242, 242, 1);
-  font-size: 5.462963vw; /* 59px/1080 */
-  font-weight: 700;
+  font-size: 4.962963vw; /* 59px/1080 */
+  font-weight: 600;
   white-space: pre;
   width: 17.592593vw; /* 190px/1080 */
   height: 6.666667vw; /* 72px/1080 */
@@ -1620,7 +1620,7 @@ body {
   letter-spacing: 0.016667vw; /* 0.18px/1080 */
   color: rgba(242, 242, 242, 1);
   -webkit-text-stroke: unset;
-  font-size: 3.240741vw; /* 35px/1080 */
+  font-size: 2.940741vw; /* 35px/1080 */
   font-weight: 500;
   white-space: pre;
   width: 30.185185vw; /* 326px/1080 */
