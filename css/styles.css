@@ -59,7 +59,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/landingpagemobile.png");
+      background-image: url("../img/landingpagemobile.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -138,7 +138,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mbggraphicmask.png");
+      background-image: url("../img/mbggraphicmask.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -186,7 +186,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mlaptopmask.png");
+      background-image: url("../img/mlaptopmask.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -340,7 +340,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/hoverstate47b4a142.png");
+      background-image: url("../img/hoverstate47b4a142.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -487,7 +487,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/forwardArrow6f624b2e.png");
+      background-image: url("../img/forwardArrow6f624b2e.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -537,7 +537,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/defaultstateb2b95e31.png");
+      background-image: url("../img/defaultstateb2b95e31.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -570,7 +570,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle673.png");
+      background-image: url("../img/rectangle673.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -688,7 +688,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/forwardArrow.png");
+      background-image: url("../img/forwardArrow.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1094,7 +1094,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/socialmedia.png");
+      background-image: url("../img/socialmedia.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1127,7 +1127,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mfacebook.png");
+      background-image: url("../img/mfacebook.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1175,7 +1175,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/minstagram.png");
+      background-image: url("../img/minstagram.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1223,7 +1223,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mtwitter.png");
+      background-image: url("../img/mtwitter.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1271,7 +1271,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mteammatchlogo.png");
+      background-image: url("../img/mteammatchlogo.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1319,7 +1319,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mforwardArrowSmall.png");
+      background-image: url("../img/mforwardArrowSmall.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1427,7 +1427,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mtmmockupsmask.png");
+      background-image: url("../img/mtmmockupsmask.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1711,7 +1711,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mplaystore903c3c59.png");
+      background-image: url("../img/mplaystore903c3c59.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1888,7 +1888,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mplaystore.png");
+      background-image: url("../img/mplaystore.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2112,7 +2112,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mapplelogo9ce79120.png");
+      background-image: url("../img/mapplelogo9ce79120.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2289,7 +2289,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mapplelogo.png");
+      background-image: url("../img/mapplelogo.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2495,7 +2495,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/linepattern.png");
+      background-image: url("../img/linepattern.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2716,7 +2716,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mus.png");
+      background-image: url("../img/mus.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2922,7 +2922,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mcurvedarrow.png");
+      background-image: url("../img/mcurvedarrow.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3079,7 +3079,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mcontroller.png");
+      background-image: url("../img/mcontroller.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3357,7 +3357,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mcrystal.png");
+      background-image: url("../img/mcrystal.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3750,7 +3750,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle704.png");
+      background-image: url("../img/rectangle704.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3798,7 +3798,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mlinepattern455bca6d.png");
+      background-image: url("../img/mlinepattern455bca6d.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3957,7 +3957,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/msmartphone.png");
+      background-image: url("../img/msmartphone.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4112,7 +4112,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mlinepatternbaf59471.png");
+      background-image: url("../img/mlinepatternbaf59471.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4340,7 +4340,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle7093603f2e9.png");
+      background-image: url("../img/rectangle7093603f2e9.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4498,7 +4498,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle709.png");
+      background-image: url("../img/rectangle709.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4656,7 +4656,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle708.png");
+      background-image: url("../img/rectangle708.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -4814,7 +4814,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle707.png");
+      background-image: url("../img/rectangle707.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5041,7 +5041,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/rectangle671.png");
+      background-image: url("../img/rectangle671.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5171,7 +5171,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mlinepattern.png");
+      background-image: url("../img/mlinepattern.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5250,7 +5250,7 @@
     -ms-transform-origin: center;
     -webkit-transform-origin: center;
     transform-origin: center;
-      background-image: url("assets/mteammatchlogomini.png");
+      background-image: url("../img/mteammatchlogomini.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
