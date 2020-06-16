@@ -844,7 +844,7 @@ body {
   background-color: transparent;
   width: 100vw; /* 1080px/1080 */
   height: 47.777778vw; /* 516px/1080 */
-  left: 0;
+  right: 0;
   top: 18.981481vw; /* 205px/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel1 .mus {
@@ -938,7 +938,7 @@ body {
   background-color: transparent;
   width: 100vw; /* 1080px/1080 */
   height: 47.87037vw; /* 517px/1080 */
-  left: 0;
+  right: 0;
   top: 66.666667vw; /* 720px/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel2 .mcontroller {
@@ -1025,7 +1025,7 @@ body {
   background-color: transparent;
   width: 100vw; /* 1080px/1080 */
   height: 47.777778vw; /* 516px/1080 */
-  left: 0;
+  right: 0;
   top: 114.444444vw; /* 1236px/1080 */
 }
 .landingpagemobile1 .misionsection .sabermas .panel3 .mcrystal {
